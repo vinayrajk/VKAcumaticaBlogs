@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationSetup", "D:\Vinayraj\AcumaticaBlogs\CustomizationPlugin\Integration\IntegrationSetup.csproj", "{76D6959E-2DE0-4E52-B638-56837F09AAFA}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Acumatica22R1", "http://localhost/Acumatica22R1", "{8711D4E7-D4D8-46C8-BD70-CF9ABB3CC2F0}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/Acumatica22R1"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Program Files\Acumatica ERP\Acumatica22R1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Acumatica22R1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Acumatica22R1"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Program Files\Acumatica ERP\Acumatica22R1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Acumatica22R1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\Program Files\Acumatica ERP\Acumatica22R1\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D6959E-2DE0-4E52-B638-56837F09AAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D6959E-2DE0-4E52-B638-56837F09AAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D6959E-2DE0-4E52-B638-56837F09AAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D6959E-2DE0-4E52-B638-56837F09AAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8711D4E7-D4D8-46C8-BD70-CF9ABB3CC2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8711D4E7-D4D8-46C8-BD70-CF9ABB3CC2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8711D4E7-D4D8-46C8-BD70-CF9ABB3CC2F0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8711D4E7-D4D8-46C8-BD70-CF9ABB3CC2F0}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2189B33-4646-4D99-B4A9-D3D07909F013}
+	EndGlobalSection
+EndGlobal
