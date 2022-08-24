@@ -1,0 +1,12 @@
+C:\Program Files\Acumatica ERP\ChannelAdvisor221100018\Bin\IntegrationSetup.dll
+C:\Program Files\Acumatica ERP\ChannelAdvisor221100018\Bin\IntegrationSetup.pdb
+D:\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.csproj.CoreCompileInputs.cache
+D:\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.csproj.CopyComplete
+D:\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.dll
+D:\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.pdb
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\Bin\IntegrationSetup.dll
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\Bin\IntegrationSetup.pdb
+D:\Projects\IntegrationSetup\SourceCode\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.csproj.CoreCompileInputs.cache
+D:\Projects\IntegrationSetup\SourceCode\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.csproj.CopyComplete
+D:\Projects\IntegrationSetup\SourceCode\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.dll
+D:\Projects\IntegrationSetup\SourceCode\IntegrationSetup\Integration\obj\Debug\IntegrationSetup.pdb

@@ -1,0 +1,6 @@
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\Bin\KNBBoxBeauty.dll
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\Bin\KNBBoxBeauty.pdb
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\KNBBoxBeauty\obj\Debug\KNBBoxBeauty.csproj.CoreCompileInputs.cache
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\KNBBoxBeauty\obj\Debug\KNBBoxBeauty.csproj.CopyComplete
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\KNBBoxBeauty\obj\Debug\KNBBoxBeauty.dll
+D:\Acumatica ERP\KNBOXBEAUTY\KNBoxbeauty\KNBBoxBeauty\obj\Debug\KNBBoxBeauty.pdb
